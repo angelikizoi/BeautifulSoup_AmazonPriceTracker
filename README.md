@@ -2,6 +2,8 @@
 
 This project is an Amazon price tracking bot that scrapes product prices from Amazon and sends an email alert if the price drops below a specified target price. The bot is built using `BeautifulSoup` for web scraping, `requests` for making HTTP requests, and `smtplib` for sending emails.
 
+This project is based on and inspired by the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** course by Angela Yu. The course provides an excellent introduction to Python and was the foundation for this game. You can check out the course on [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=ST14MT101024#reviews).
+
 ## Features
 
 - Scrapes the price of a product from Amazon.
